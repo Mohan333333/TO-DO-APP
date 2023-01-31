@@ -1,0 +1,39 @@
+#container {
+  width: 500px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+#task-input {
+  width: 60%;
+  height: 30px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+#add-task {
+  width: 20%;
+  height: 35px;
+  font-size: 18px;
+  margin-bottom: 20px;
+  background-color: lightblue;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.task {
+  width: 60%;
+  height: 30px;
+  font-size: 18px;
+  margin: 10px auto;
+  text-align: left;
+  padding-left: 20px;
+  border-radius: 5px;
+  background-color: lightgrey;
+}
